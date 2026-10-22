@@ -1,0 +1,8 @@
+{
+  "name": "questsheet-ai-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test", "start": "node local-server.js" },
+  "engines": {"node": ">=20"}
+}
