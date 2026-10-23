@@ -1,4 +1,4 @@
-const DEFAULT_MODEL = 'gemini-2.5-flash';
+const DEFAULT_MODEL = 'gemini-3.8-flash';
 const MAX_MESSAGE_CHARS = 6000;
 const MAX_HISTORY_ITEMS = 16;
 const MAX_CONTEXT_CHARS = 14000;
